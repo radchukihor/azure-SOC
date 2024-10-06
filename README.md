@@ -47,8 +47,8 @@ After Hardening / Security Controls 🔒
 
 Before Hardening 🟥
 
-Start Time: 2024-09-25 10:07
-Stop Time: 2023-09-26 10:17
+**Start Time: 2024-09-25 10:07**\
+**Stop Time: 2023-09-26 10:17**
 
 ![nsg-malicious-allowed-in(before)](https://github.com/user-attachments/assets/55769f24-8538-44dc-aa6e-1d10e17a9a51)
 
@@ -56,24 +56,26 @@ Stop Time: 2023-09-26 10:17
 
 ![windows-rdp-auth-fail(before)](https://github.com/user-attachments/assets/a4f27df9-6cc4-44cc-8068-9691201f075a)
 
-Metric	Count
-SecurityEvent	80,050
-Syslog	8,248
-SecurityAlert	5
-SecurityIncident	175
-AzureNetworkAnalytics_CL	3,312
+| Metric                   | Count
+| ------------------------ | -----
+| SecurityEvent            | 80,050
+| Syslog                   | 8,248
+| SecurityAlert            | 5
+| SecurityIncident         | 175
+| AzureNetworkAnalytics_CL | 3,312
 
 After Hardening 🟩
 
-Start Time: 2024-10-03 15:07
-Stop Time: 2024-10-04 15:07
+**Start Time: 2024-10-03 15:07**\
+**Stop Time: 2024-10-04 15:07**
 
-Metric	Count
-SecurityEvent	17,467
-Syslog	10
-SecurityAlert	0
-SecurityIncident	0
-AzureNetworkAnalytics_CL	0
+| Metric                   | Count
+| ------------------------ | -----
+| SecurityEvent            | 17,467
+| Syslog                   | 10
+| SecurityAlert            | 0
+| SecurityIncident         | 0
+| AzureNetworkAnalytics_CL | 0
 
 🚨 Attack Maps Before Hardening
 
